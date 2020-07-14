@@ -1,0 +1,2 @@
+body{margin:0;font-family:Arial,Helvetica,serif;color:#fff}.container{margin:0 auto;max-width:1199px;display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));justify-content:center}.container__item{text-align:center;font-size:100px;line-height:300px}.one{background-color:red}.two{background-color:#c00}.three{background-color:#900}.four{background-color:#600}.five{background-color:#300}.six{background-color:#000}
+/*# sourceMappingURL=main.8476a3ec.css.map */
